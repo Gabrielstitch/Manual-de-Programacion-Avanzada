@@ -8,3 +8,7 @@ Elaborar un programa que simule el destinatario  de una carta, en primer lugar, 
 Despues en el lado derecho se mostrara el nombre de a quien va dirigido, la colonia o calle, seguido de la olonia y por ultimo la fecha.
 
 Esto se podra realizar usando comandos "print", el cual nos permitira imprimir los mensajes. A continuacion se muestra el codigo del lado izquiero y del lado derecho se mostrara la ejecucion del programa.
+
+<img src=1.png>
+
+
