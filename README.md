@@ -243,7 +243,55 @@ Las horas, minutos y segundos deben de estar en formato de dos dígitos con un 0
 
 <img src= 26.png>
 
+## Programa 27
 
+Escriba un programa que calcule el índice de masa corporal (IMC) de un individuo. Su programa debe comenzar leyendo una altura y un peso del usuario. Entonces debería 12 1 Introducción a los ejercicios de programación use una de las siguientes dos fórmulas para calcular el IMC antes de mostrarlo. Si lee la altura en pulgadas y el peso en libras, entonces el índice de masa corporal es
+calculado usando la siguiente fórmula: IMC = peso altura × altura × 703.
+Si lee la altura en metros y el peso en kilogramos, entonces el índice de masa corporal se calcula utilizando esta fórmula ligeramente más simple:
+IMC = peso
+altura × altura
 
+<img src=27.png>
 
+## Programa 28
 
+Cuando el viento sopla en clima frío, el aire se siente aún más frío de lo que realmente es porque el movimiento del aire aumenta la velocidad de enfriamiento de los objetos calientes, como personas. Este efecto se conoce como sensación térmica.
+En 2001, Canadá, el Reino Unido y los Estados Unidos adoptaron lo siguiente fórmula para calcular el índice de sensación térmica. Dentro de la fórmula Ta está el la temperatura del aire en grados Celsius y V es la velocidad del viento en kilómetros por hora.
+Se puede usar una fórmula similar con diferentes valores constantes con temperaturas en grados Fahrenheit y velocidades del viento en millas por hora.
+WCI = 13.12 + 0.6215Ta - 11.37V**0.16 + 0.3965TaV**0.16
+Escriba un programa que comience leyendo la temperatura del aire y la velocidad del viento del usuario. Una vez que se hayan leído estos valores, su programa debería mostrar la sensación térmica índice redondeado al entero más cercano.
+El índice de enfriamiento del viento solo se considera válido para temperaturas inferiores o igual a 10 grados centígrados y velocidades del viento superiores a 4,8 kilómetros por hora.
+
+<img src= 28.png>
+
+## Programa 29
+
+Escriba un programa que comience leyendo la temperatura del usuario en grados Celsius. Entonces su programa debe mostrar la temperatura equivalente en grados Fahrenheit y grados Kelvin. Los cálculos necesarios para convertir entre diferentes unidades de temperatura se pueden encontrar en internet.
+
+<img src=29.png>
+
+## Programa 30
+
+En este ejercicio creará un programa que lee la presión del usuario en kilopascales.
+Una vez que se ha leído la presión, su programa debe informar la equivalente presión en libras por pulgada cuadrada, milímetros de mercurio y atmósferas. Utilizar sus habilidades de investigación para determinar los factores de conversión entre estas unidades.
+
+<img src=30.png>
+
+## Programa 31
+
+Desarrolle un programa que lea un número entero de tres dígitos del usuario y muestre la suma de los dígitos en el número. Por ejemplo, si el usuario ingresa 314, entonces su programa
+debería mostrar 3 + 1 + 4 = 8.
+
+<img src=31.png>
+
+##  Programa32
+
+Cree un programa que lea tres enteros del usuario y los muestre en orden ordenado (de menor a mayor). Usa las funciones min y max para encontrar el más pequeño y valores más grandes. El valor medio se puede encontrar calculando la suma de los tres valores, y luego restando el valor mínimo y el valor máximo.
+
+<img src=32.png> 
+
+## Programa 33
+
+ Una panadería vende hogazas de pan por $ 3.49 cada una. El pan de un día tiene un descuento de 60 por ciento. Escriba un programa que comience leyendo la cantidad de panes de un día, el pan que se compra al usuario. Luego, su programa debe mostrar el precio regular del pan, el descuento porque tiene un día de antigüedad y el precio total. Todos los valores deben mostrarse utilizando dos lugares decimales, y los puntos decimales en todos los números deben alinearse cuando el usuario ingresa valores razonables.
+ 
+ <img src=33.png>
